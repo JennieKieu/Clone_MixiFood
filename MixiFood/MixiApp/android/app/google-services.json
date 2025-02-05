@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "715130445783",
+    "project_id": "mixifood-fc930",
+    "storage_bucket": "mixifood-fc930.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:715130445783:android:578649b4daa76016c57592",
+        "android_client_info": {
+          "package_name": "com.mixifood"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIeaBkZIOMQRJnskAj2eEy9EAsXq9S1OU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

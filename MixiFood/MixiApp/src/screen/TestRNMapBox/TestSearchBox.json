@@ -1,0 +1,221 @@
+{
+  "suggestions": [
+    {
+      "name": "Vietinbank PGD Nguyễn Thái Sơn",
+      "mapbox_id": "dXJuOm1ieHBvaTowOThjYjA2Ni0zMDgxLTRjMmQtYjczZi1jOTU1ZTc0ODY5ODc",
+      "feature_type": "poi",
+      "address": "Đỗ Xuân Hợp",
+      "full_address": "Đỗ Xuân Hợp, Ho Chi Minh City, 71100, Vietnam",
+      "place_formatted": "Ho Chi Minh City, 71100, Vietnam",
+      "context": {
+        "country": {
+          "name": "Vietnam",
+          "country_code": "VN",
+          "country_code_alpha_3": "VNM"
+        },
+        "postcode": {
+          "id": "dXJuOm1ieHBsYzpBZVN1OUE",
+          "name": "71100"
+        },
+        "place": {
+          "id": "dXJuOm1ieHBsYzpKUFE",
+          "name": "Ho Chi Minh City"
+        },
+        "neighborhood": {
+          "id": "dXJuOm1ieHBsYzpCQ3ow",
+          "name": "An Phú"
+        },
+        "street": {
+          "name": "đỗ xuân hợp"
+        }
+      },
+      "language": "en",
+      "maki": "home",
+      "poi_category": ["home"],
+      "poi_category_ids": ["home"],
+      "external_ids": {
+        "dataplor": "c55cd78f-edf2-4713-99f2-f2e88e9e22cd"
+      },
+      "metadata": {},
+      "distance": 14280000
+    },
+    {
+      "name": "ToCoToCo Ice Cream & Coffee Nguyễn Thái Sơn",
+      "mapbox_id": "dXJuOm1ieHBvaTplOWI5MTE1Yy1mNDM4LTQ3NjUtYWE0NS1kM2MyY2VmMzY1NzY",
+      "feature_type": "poi",
+      "address": "2A Đ. Nguyễn Thái Sơn",
+      "full_address": "2A Đ. Nguyễn Thái Sơn, Ho Chi Minh City, 71400, Vietnam",
+      "place_formatted": "Ho Chi Minh City, 71400, Vietnam",
+      "context": {
+        "country": {
+          "name": "Vietnam",
+          "country_code": "VN",
+          "country_code_alpha_3": "VNM"
+        },
+        "postcode": {
+          "id": "dXJuOm1ieHBsYzpBZVVPOUE",
+          "name": "71400"
+        },
+        "place": {
+          "id": "dXJuOm1ieHBsYzpKUFE",
+          "name": "Ho Chi Minh City"
+        },
+        "neighborhood": {
+          "id": "dXJuOm1ieHBsYzpYc3ow",
+          "name": "Ward 3"
+        },
+        "address": {
+          "name": "2A Đ. Nguyễn Thái Sơn",
+          "address_number": "2a",
+          "street_name": "đ. nguyễn thái"
+        },
+        "street": {
+          "name": "đ. nguyễn thái"
+        }
+      },
+      "language": "en",
+      "maki": "restaurant",
+      "poi_category": ["food", "food and drink", "ice cream store"],
+      "poi_category_ids": ["food", "food_and_drink", "ice_cream"],
+      "external_ids": {
+        "dataplor": "369f8722-8141-4a9e-a430-d646baf336c8"
+      },
+      "metadata": {},
+      "distance": 14280000
+    },
+    {
+      "name": "LIEM BARBER SHOP CHICANO - 65 Nguyễn Thái Sơn, Phường 4, Quận Gò Vấp",
+      "mapbox_id": "dXJuOm1ieHBvaTowOTVlMTlmYi1kMTNkLTRjM2EtYjhjYy00MGVkZWEwMzhlNjU",
+      "feature_type": "poi",
+      "address": "65 Đ. Nguyễn Thái Sơn",
+      "full_address": "65 Đ. Nguyễn Thái Sơn, Ho Chi Minh City, 71400, Vietnam",
+      "place_formatted": "Ho Chi Minh City, 71400, Vietnam",
+      "context": {
+        "country": {
+          "name": "Vietnam",
+          "country_code": "VN",
+          "country_code_alpha_3": "VNM"
+        },
+        "postcode": {
+          "id": "dXJuOm1ieHBsYzpBZVVPOUE",
+          "name": "71400"
+        },
+        "place": {
+          "id": "dXJuOm1ieHBsYzpKUFE",
+          "name": "Ho Chi Minh City"
+        },
+        "neighborhood": {
+          "id": "dXJuOm1ieHBsYzpZQXow",
+          "name": "Ward 4"
+        },
+        "address": {
+          "name": "65 Đ. Nguyễn Thái Sơn",
+          "address_number": "65",
+          "street_name": "đ. nguyễn thái"
+        },
+        "street": {
+          "name": "đ. nguyễn thái"
+        }
+      },
+      "language": "en",
+      "maki": "marker",
+      "poi_category": ["barber", "services"],
+      "poi_category_ids": ["hairdresser", "services"],
+      "external_ids": {
+        "dataplor": "d22ec49e-8f53-4e4e-95c2-266816afb122"
+      },
+      "metadata": {},
+      "distance": 14280000
+    },
+    {
+      "name": "Siêu thị Bách hoá XANH 3/14 Nguyễn Thái Sơn",
+      "mapbox_id": "dXJuOm1ieHBvaTpmM2M0NGY4ZS0xOTY3LTQ1ZjMtYWMzYS04YmVmNjM2NWNkZDU",
+      "feature_type": "poi",
+      "address": "14 Đ. Nguyễn Thái Sơn",
+      "full_address": "14 Đ. Nguyễn Thái Sơn, Ho Chi Minh City, 71400, Vietnam",
+      "place_formatted": "Ho Chi Minh City, 71400, Vietnam",
+      "context": {
+        "country": {
+          "name": "Vietnam",
+          "country_code": "VN",
+          "country_code_alpha_3": "VNM"
+        },
+        "postcode": {
+          "id": "dXJuOm1ieHBsYzpBZVVPOUE",
+          "name": "71400"
+        },
+        "place": {
+          "id": "dXJuOm1ieHBsYzpKUFE",
+          "name": "Ho Chi Minh City"
+        },
+        "neighborhood": {
+          "id": "dXJuOm1ieHBsYzpYc3ow",
+          "name": "Ward 3"
+        },
+        "address": {
+          "name": "14 Đ. Nguyễn Thái Sơn",
+          "address_number": "14",
+          "street_name": "đ. nguyễn thái"
+        },
+        "street": {
+          "name": "đ. nguyễn thái"
+        }
+      },
+      "language": "en",
+      "maki": "marker",
+      "poi_category": ["grocery", "shopping", "supermarket"],
+      "poi_category_ids": ["grocery", "shopping", "supermarket"],
+      "external_ids": {
+        "dataplor": "0a47c131-de17-42f0-82a1-7ba50a537dd5"
+      },
+      "metadata": {},
+      "distance": 14280000
+    },
+    {
+      "name": "GINGA PET 242 Nguyễn Thái Sơn, Gò Vấp",
+      "mapbox_id": "dXJuOm1ieHBvaTpmODk5YmZmNy00ZTEyLTRkZTktYWM1OC03ZTY2NjFhYjZmZTU",
+      "feature_type": "poi",
+      "address": "242 Đ. Nguyễn Thái Sơn",
+      "full_address": "242 Đ. Nguyễn Thái Sơn, Ho Chi Minh City, 71400, Vietnam",
+      "place_formatted": "Ho Chi Minh City, 71400, Vietnam",
+      "context": {
+        "country": {
+          "name": "Vietnam",
+          "country_code": "VN",
+          "country_code_alpha_3": "VNM"
+        },
+        "postcode": {
+          "id": "dXJuOm1ieHBsYzpBZVVPOUE",
+          "name": "71400"
+        },
+        "place": {
+          "id": "dXJuOm1ieHBsYzpKUFE",
+          "name": "Ho Chi Minh City"
+        },
+        "neighborhood": {
+          "id": "dXJuOm1ieHBsYzpZQXow",
+          "name": "Ward 4"
+        },
+        "address": {
+          "name": "242 Đ. Nguyễn Thái Sơn",
+          "address_number": "242",
+          "street_name": "đ. nguyễn thái"
+        },
+        "street": {
+          "name": "đ. nguyễn thái"
+        }
+      },
+      "language": "en",
+      "maki": "animal-shelter",
+      "poi_category": ["pet store", "shopping"],
+      "poi_category_ids": ["pet_store", "shopping"],
+      "external_ids": {
+        "dataplor": "ed1e9568-610b-4e66-accf-e3654b4ade84"
+      },
+      "metadata": {},
+      "distance": 14280000
+    }
+  ],
+  "attribution": "© 2024 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service. (https://www.mapbox.com/about/maps/)",
+  "response_id": "dvCsu_xXi66rMTotPSVuv-BpZZ9hSm0IUTDrnXFEl9dA61bLq-A7XSdgDJc54V1noyNLCAH6Iy-QzeQqPWDo4fxu9p-zOkSA5YWx"
+}
